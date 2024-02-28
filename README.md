@@ -12,7 +12,7 @@ This project is licensed under the GNU General Public License v3.0. See the [LIC
 
 TBC - But there is one question to start with:  If RISC-V is meant to change a
 paradigm with it's open architecture, can't we create a kernel to fully
-compliment this?
+complimemt this? Why default to waiting on a port of an existing one?
 
 ## Development TODO List:
 
